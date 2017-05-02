@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataExercises", "KataExerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataExercises.Tests", "..\KataExercises.Tests\KataExercises.Tests.csproj", "{0D0CDB88-030A-4152-9F5A-AC340E90BE56}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KataExercisesTests", "..\KataExercisesTests\KataExercisesTests.csproj", "{A012449F-F393-4D87-9EDF-D298BEFF3F58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{0D0CDB88-030A-4152-9F5A-AC340E90BE56}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0D0CDB88-030A-4152-9F5A-AC340E90BE56}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0D0CDB88-030A-4152-9F5A-AC340E90BE56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A012449F-F393-4D87-9EDF-D298BEFF3F58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A012449F-F393-4D87-9EDF-D298BEFF3F58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A012449F-F393-4D87-9EDF-D298BEFF3F58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A012449F-F393-4D87-9EDF-D298BEFF3F58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
