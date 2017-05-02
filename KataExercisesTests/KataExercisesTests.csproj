@@ -56,6 +56,7 @@
     <Otherwise />
   </Choose>
   <ItemGroup>
+    <Compile Include="DriverLicenseTests.cs" />
     <Compile Include="FizzBuzzTests.cs" />
     <Compile Include="PopulationGrowthTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
